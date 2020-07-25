@@ -1,2 +1,2 @@
 # NamedEntityRecognition-BiLSTM-CRF-BERT
-NamedEntityRecognition using BiLSTM-CRF,BiLSTM,BERT,TF2.x and Pytorch
+Named Enity Recognition is one of the most common NLP problems. The goal is classify named entities in text into pre-defined categories such as the names of persons, organizations, locations, expressions of times, quantities, monetary values, percentages, etc. What can you use it for? Here are a few ideas - social media, chatbot, customer support tickets, survey responses, and data mining!
